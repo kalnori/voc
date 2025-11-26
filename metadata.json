@@ -1,0 +1,5 @@
+{
+  "name": "日文單字例句朗讀",
+  "description": "An interactive Japanese vocabulary flashcard tool. Upload your own sentence images, shuffle them randomly, and use Gemini AI to extract text, translate, and provide pronunciation audio.",
+  "requestFramePermissions": []
+}
